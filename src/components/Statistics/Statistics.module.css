@@ -1,21 +1,7 @@
-.divStatistics {
-    margin: 0 auto;
-    padding: 0 auto;
-    box-shadow: none;
-    width: 100%;
-}
-.labelStat {
+.label {
     margin-bottom: 10px;
-}
-
-.value {
+  }
+  
+  .value {
     font-weight: bold;
-}
-
-.valuePercentage {
-    font-size: x-large;
-    font-weight: bold;
-}
-.icons{
-    fill: rgb(10, 57, 98);
-}
+  }
